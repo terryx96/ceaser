@@ -1,1 +1,4 @@
-print('This will be my ceaser cipher program')
+file = open('./plaintext.txt', 'r')
+print(file.read())
+
+file.close()
