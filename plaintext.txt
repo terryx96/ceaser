@@ -1,1 +1,1 @@
-This message is a secret!
+this is A MESSage that HAS uppeRCase
